@@ -1,9 +1,9 @@
-##**Wang Dae Sung**
+## **Wang Dae Sung**
 
 ### **Software & Hardware Developer**
 
 #### **Skill :** C, C++, PHP, JAVA, Sketch(Arduino), NRF, STM
-####[Github](http://github.com/mamosoo)    [E-mail](bentforwork@gmail.com)        
+#### [Github](http://github.com/mamosoo)    [E-mail](bentforwork@gmail.com)        
 
 
  
@@ -27,7 +27,7 @@ Sept/2017 | Guro-gu IoT Lecture | IoT Lecturer|
 ----------
 
 
-##**Project**
+## **Project**
 Month/Year | Detail | Part | Result
 ---| --- | --- | ---
 Dec/2015 | 3rd Seoul Center for Creative Economy & Innovation IoT Hackaton | H/W Developer | 3rd Prize
@@ -43,7 +43,7 @@ August/2017 | Chonju Devicethon | H/W Developer | 2nd Prize
 ----------
 
 
-##**Outsourcing**
+## **Outsourcing**
 Month/Year | Detail | Part
 --- | --- | ---|
 June/2017 | Chonbuk National University Public Safety Information Technology Research Center - Researching of Crime frequency between location | Back-end Developer
