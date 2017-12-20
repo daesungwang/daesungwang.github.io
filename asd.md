@@ -13,31 +13,31 @@
 
 
 ## **Career**
-Year | Detail | Part
---- | --- | ---
-2016 | Chonbuk National Uinversity App Academy | Mentor
-2017 | Chonbuk National University App Academy | Mentor
-2017 | Seokang University Maker's worksshop | Arduino Mentor
-2017 | SK Smartenn App Challenge | IoT Mentor
-2017 | Software Maestro | Mentee
-2017 | Nowon-gu Teenager Center Maker Class | IoT Lecturer
-2017 | Guro-gu IoT Lecture | IoT Lecturer|
+Year | Works at | Detail | Position
+--- | --- | --- | ---
+2016 | Chonbuk National University | App Academy | Mentor
+2017 | Chonbuk National University | App Academy | Mentor
+2017 | Seokang University | Maker's worksshop | Arduino Mentor
+2017 | Game Donga |SK Smartenn App Challenge | IoT Mentor
+2017 | Ministry of Science And ICT | Software Maestro | Mentee
+2017 | Magic eco | Nowon-gu Teenager Center Maker Class | IoT Lecturer
+2017 | Konkuk University | Guro-gu IoT Lecture | IoT Lecturer
 
 
 ----------
 
 
-## **Project**
-Year | Detail | Part | Result
----| --- | --- | ---
-2015 | 3rd Seoul Center for Creative Economy & Innovation IoT Hackaton | H/W Developer | 3rd Prize
-2016 | Choong-Nam Sunny-day Hackathon | H/W Developer | 2nd Prize
-2016 |Chonbuk National University Idea Hackathon | H/W & S/W Developer | 1st Prize
-2016 | 32nd Worldfriends-Global-Volunteer | Team Leader(P/E) | Mongolia 
-2016 | 1st Busan ICT Hackathon | H/W & S/W Developer| 3rd Prize
-2016 | HUMANUTAS MAKEATHON | H/W Developer| 1st Prize
-2016 | Chonbuk National University Seday | H/W & S/W Developer | 2nd Prize
-2017 | Chonju Devicethon | H/W Developer | 2nd Prize
+## **Awards and Participation**
+Year | Detail | Position | Result | Idea
+---| --- | --- | --- | ---
+2015 | 2nd Seoul Center for Creative Economy & Innovation IoT Hackaton | S/W Developer | Participation | Fall down detect
+2015 | 3rd Seoul Center for Creative Economy & Innovation IoT Hackaton | H/W Developer | 3rd Prize | Paohu belt - Health care belt by using FRS and BLE
+2016 | Choong-Nam Sunny-day Hackathon | H/W Developer | 2nd Prize | Echo - Stamp tour system by using BLE
+2016 | Chonbuk National University Idea Hackathon | H/W & S/W Developer | 1st Prize | Magic Stick - IoT Health care cane for blind person by using BLE
+2016 | 1st Busan ICT Hackathon | H/W & S/W Developer| 3rd Prize | Helper - IoT cane for formal users by using BLE and Ultra sonic sensor
+2016 | HUMANUTAS MAKEATHON | H/W Developer| 1st Prize | Together
+2016 | Chonbuk National University Seday | H/W & S/W Developer | 2nd Prize | Present my self
+2017 | Chonju Devicethon | H/W Developer | 2nd Prize | Jeonju-Seoul - Stamp tour system by suing BLE and Graph algorithm
 
 
 ----------
@@ -52,3 +52,10 @@ Year | Detail | Part
 
 
 ----------
+
+
+## **etc***
+Year | Works at | Detail | Position
+--- | --- | --- | ---
+2016 | 32nd Worldfriends-Global-Volunteer | Team Leader(P/E) | Mongolia
+2017 | Ministry of Science And ICT | S/W Camp | Mentor
