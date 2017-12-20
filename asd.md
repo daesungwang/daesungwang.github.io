@@ -2,7 +2,7 @@
 ![facebookimg](http://graph.facebook.com/100004703766723/picture?type=large)
 ### **Software & Hardware Developer**
 
-#### **Skill :** C, C++, PHP, JAVA, Sketch(Arduino), NRF, STM
+#### **Skill :** C, C++, PHP, JAVA, NRF, STM, Sketch(Arduino)
 #### [Github](http://github.com/mamosoo)    [E-mail](bentforwork@gmail.com)        
 
 
