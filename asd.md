@@ -3,7 +3,7 @@
 ### **Software & Hardware Developer**
 
 #### **Skill :** C, C++, PHP, JAVA, NRF, STM, Sketch(Arduino)
-#### [Github](http://github.com/mamosoo)    [E-mail](bentforwork@gmail.com)        
+#### [Github](http://github.com/mamosoo)    E-mail : bentforwork@gmail.com 
 
 
  
