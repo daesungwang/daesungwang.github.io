@@ -35,9 +35,10 @@ Year | Detail | Position | Result | Idea
 2016 | Choong-Nam Sunny-day Hackathon | H/W Developer | 2nd Prize | Echo - Stamp tour system by using BLE
 2016 | Chonbuk National University Idea Hackathon | H/W & S/W Developer | 1st Prize | Magic Stick - IoT Health care cane for blind person by using BLE
 2016 | 1st Busan ICT Hackathon | H/W & S/W Developer| 3rd Prize | Helper - IoT cane for formal users by using BLE and Ultra sonic sensor
-2016 | HUMANUTAS MAKEATHON | H/W Developer| 1st Prize | Together
+2016 | HUMANITAS MAKEATHON | H/W Developer| 1st Prize | Together
 2016 | Chonbuk National University Seday | H/W & S/W Developer | 2nd Prize | Present my self
 2017 | Chonju Devicethon | H/W Developer | 2nd Prize | Jeonju-Seoul - Stamp tour system by suing BLE and Graph algorithm
+2018 | ELECTHONE | Team Leader | 3rd Prize | AI System by using Home IoT System
 
 
 ----------
