@@ -18,10 +18,12 @@ Year | Works at | Detail | Position
 2016 | Chonbuk National University | App Academy | Mentor
 2017 | Chonbuk National University | App Academy | Mentor
 2017 | Seokang University | Maker's worksshop | Arduino Mentor
-2017 | Game Donga |SK Smartenn App Challenge | IoT Mentor
+2017 | SK TechX | SK Smartenn App Challenge | IoT Mentor
 2017 | Ministry of Science And ICT | Software Maestro | Mentee
 2017 | Magic eco | Nowon-gu Teenager Center Maker Class | IoT Lecturer
 2017 | Konkuk University | Guro-gu IoT Lecture | IoT Lecturer
+2018 | SK Planet | SK Smartenn App Challenge | IoT Mentor
+2019 | ChonBuk National University | Dept. of Software Engineering | Student President
 
 
 ----------
@@ -38,7 +40,8 @@ Year | Detail | Position | Result | Idea
 2016 | HUMANITAS MAKEATHON | H/W Developer| 1st Prize | Together
 2016 | Chonbuk National University Seday | H/W & S/W Developer | 2nd Prize | Present my self
 2017 | Chonju Devicethon | H/W Developer | 2nd Prize | Jeonju-Seoul - Stamp tour system by suing BLE and Graph algorithm
-2018 | ELECTHONE | Team Leader | 3rd Prize | AI System by using Home IoT System
+2018 | ELECTHONE-KEPCO | Team Leader | 3rd Prize | AI System by using Home IoT System
+2018 | CBNU Millennium Awrad | 2nd Prize | President Award | Creativity in Human Resources     
 
 
 ----------
@@ -50,6 +53,7 @@ Year | Detail | Part
 2017 | Chonbuk National University Public Safety Information Technology Research Center - Researching of Crime frequency between location | Back-end Developer
 2017 | Social-EQ | Arduino - Color Calibration by using LED
 2017 | Social-EQ | Arduino - Work-Flow improvement by using FRS and Linux base computer 
+2018 | Chonbuk National University Public Safety Information Technology Research Center - Medicine recommend by using chat bot  | Team leader
 
 
 ----------
