@@ -41,7 +41,7 @@ Year | Detail | Position | Result | Idea
 2016 | Chonbuk National University Seday | H/W & S/W Developer | 2nd Prize | Present my self
 2017 | Chonju Devicethon | H/W Developer | 2nd Prize | Jeonju-Seoul - Stamp tour system by suing BLE and Graph algorithm
 2018 | ELECTHONE-KEPCO | Team Leader | 3rd Prize | AI System by using Home IoT System
-2018 | CBNU Millennium Awrad | 2nd Prize | President Award | Creativity in Human Resources     
+2018 | CBNU Millennium Awrad | University President Award | 2nd Prize | Creativity in Human Resources     
 
 
 ----------
