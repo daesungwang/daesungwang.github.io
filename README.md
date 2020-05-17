@@ -42,7 +42,8 @@ Year | Detail | Position | Result | Idea
 2017 | Chonju Devicethon | H/W Developer | 2nd Prize | Jeonju-Seoul - Stamp tour system by suing BLE and Graph algorithm
 2018 | ELECTHONE-KEPCO | Team Leader | 3rd Prize | AI System by using Home IoT System
 2018 | CBNU Millennium Awrad | University President Award | 2nd Prize | Creativity in Human Resources     
-
+2019 | CBNU Coporate visit Competition | Visitor | 3rd Prize 
+2019 | CBNU Millennuim Award | University President Award | 2nd Prize | Challenge in Human Resources
 
 ----------
 
