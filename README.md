@@ -24,6 +24,8 @@ Year | Works at | Detail | Position
 2017 | Konkuk University | Guro-gu IoT Lecture | IoT Lecturer
 2018 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 2019 | ChonBuk National University | Dept. of Software Engineering | Student President
+2020 | ChonBuk National University | Dept. of Software Engineering | Student President(Re-Election)
+2020 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 
 
 ----------
