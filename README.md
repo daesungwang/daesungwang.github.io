@@ -1,5 +1,5 @@
 ## **Wang Dae Sung**
-![facebookimg](http://graph.facebook.com/793449714155147/picture?type=large)
+![profile](https://user-images.githubusercontent.com/22803510/101920561-4d0ff700-3c0f-11eb-944f-f0924607c355.jpg)
 ### **Software & Hardware Developer**
 
 #### **Skill :** C, C++, PHP, JAVA, NRF, STM, Sketch(Arduino)
