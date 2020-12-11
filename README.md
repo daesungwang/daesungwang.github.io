@@ -24,6 +24,7 @@ Year | Works at | Detail | Position
 2017 | Konkuk University | Guro-gu IoT Lecture | IoT Lecturer
 2018 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 2019 | ChonBuk National University | Dept. of Software Engineering | Student President
+2019 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 2020 | ChonBuk National University | Dept. of Software Engineering | Student President(Re-Election)
 2020 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 
@@ -46,6 +47,8 @@ Year | Detail | Position | Result | Idea
 2018 | CBNU Millennium Awrad | University President Award | 2nd Prize | Creativity in Human Resources     
 2019 | CBNU Coporate visit Competition | Visitor | 3rd Prize 
 2019 | CBNU Millennuim Award | University President Award | 2nd Prize | Challenge in Human Resources
+2020 | KIIT Best Paper Award | Korean Institute of Information Technology | Silver Award | Rule-Based integrated web service for the care of pets
+
 
 ----------
 
