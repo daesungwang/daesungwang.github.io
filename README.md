@@ -1,4 +1,4 @@
-## **Wang Dae Sung**
+## **DaeSung Wang**
 ![profile](https://user-images.githubusercontent.com/22803510/101920561-4d0ff700-3c0f-11eb-944f-f0924607c355.jpg)
 ### **Software & Hardware Developer**
 
