@@ -12,6 +12,14 @@
 ----------
 
 
+
+## **Education**
+
+B.S. in Software Engineering, Jeonbuk National University., 2021.  
+M.S. in Computer Engineering, CHUNG-ANG University., 2021 - Present.
+
+----------
+
 ## **Career**
 Year | Works at | Detail | Position
 --- | --- | --- | ---
