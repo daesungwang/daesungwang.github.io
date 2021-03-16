@@ -73,7 +73,7 @@ Year | Detail | Part
 ----------
 
 
-## **etc***
+## **Social Contribution**
 Year | Works at | Detail | Position
 --- | --- | --- | ---
 2016 | 32nd Worldfriends-Global-Volunteer | Team Leader(P/E) | Mongolia
