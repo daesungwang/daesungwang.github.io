@@ -16,25 +16,21 @@
 ## **Education**
 
 B.S. in Software Engineering, Jeonbuk National University., 2021.  
-Studying for M.S. in Computer Engineering, CHUNG-ANG University., 2021 - Present.
+Studying for M.S. in Computer Science Engineering, Chung-Ang University., 2021 - Present.
 
 ----------
 
 ## **Career**
 Year | Works at | Detail | Position
 --- | --- | --- | ---
-2016 | Chonbuk National University | App Academy | Mentor
-2017 | Chonbuk National University | App Academy | Mentor
+2016 - 2017 | Chonbuk National University | App Academy | Mentor
 2017 | Seokang University | Maker's worksshop | Arduino Mentor
-2017 | SK TechX | SK Smartenn App Challenge | IoT Mentor
+2017 - Present | SK Planet | SK Smartenn App Challenge | IoT Mentor
 2017 | Ministry of Science And ICT | Software Maestro | Mentee
 2017 | Magic eco | Nowon-gu Teenager Center Maker Class | IoT Lecturer
 2017 | Konkuk University | Guro-gu IoT Lecture | IoT Lecturer
-2018 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 2019 | ChonBuk National University | Dept. of Software Engineering | Student President
-2019 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 2020 | ChonBuk National University | Dept. of Software Engineering | Student President(Re-Election)
-2020 | SK Planet | SK Smartenn App Challenge | IoT Mentor
 
 
 ----------
@@ -76,5 +72,5 @@ Year | Detail | Part
 ## **Social Contribution**
 Year | Works at | Detail | Position
 --- | --- | --- | ---
-2016 | 32nd Worldfriends-Global-Volunteer | Team Leader(P/E) | Mongolia
+2016 | 32nd Worldfriends-Global-Volunteer | Mongolia | Team Leader(P/E)
 2017 | Ministry of Science And ICT | S/W Camp | Mentor
