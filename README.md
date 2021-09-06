@@ -25,7 +25,7 @@ Year | Works at | Detail | Position
 --- | --- | --- | ---
 2016 - 2017 | Chonbuk National University | App Academy | Mentor
 2017 | Seokang University | Maker's worksshop | Arduino Mentor
-2017 - Present | SK Planet | SK Smartenn App Challenge | IoT Mentor
+2017 - Present | SK Planet | SK Smarteen App Challenge | IoT Mentor
 2017 | Ministry of Science And ICT | Software Maestro | Mentee
 2017 | Magic eco | Nowon-gu Teenager Center Maker Class | IoT Lecturer
 2017 | Konkuk University | Guro-gu IoT Lecture | IoT Lecturer
