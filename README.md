@@ -1,5 +1,6 @@
 ## **DaeSung Wang**
-![profile](https://user-images.githubusercontent.com/22803510/101920561-4d0ff700-3c0f-11eb-944f-f0924607c355.jpg)
+## **This page is an old version. Please follow the new version below.**
+## **New Version of CV is Available at [Notion Page](https://probable-smash-720.notion.site/DaeSung-Wang-f7d4930160c047efaf86ffbb8bc27907)**
 ### **Software & Hardware Developer**
 
 #### **Skill :** C, C++, PHP, JAVA, NRF, STM, Sketch(Arduino)
